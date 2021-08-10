@@ -6,7 +6,7 @@
   * [Dataset_Description](#Dataset_Description)
   * [Model_Building](#Model_Building)
   * [Result](#Result)
-  * [Business_Recommendation](#Business_Recommendation)
+  * [Model Deployment ](#Model_Deployment )
   * [Credit](#Credit)
   
 
@@ -39,7 +39,9 @@ The dataset contains images of 37 breeds of cats and dogs from around the world.
 * Testing the model on some animal breed 2015 to check how it’s performing.
 * The predicted top 3 breeds for the following images are below: 
        * English_setter
-       <img src="/english_setter.png.PNG" width="300">
+       * 
+       <img src="/english_setter.png" width="300">
+       
        Prediction-  1. english_setter
                     2. yorkshire_terrier
                     3. shiba_inu
@@ -49,10 +51,11 @@ The dataset contains images of 37 breeds of cats and dogs from around the world.
 
        
 
-## Business_Recommendation
-* Firm should focus on 3 important features 'Percent difference CTC', 'Duration to accept the offer'& 'Age'
-* Firm should introduce new offering/schemes based on these 3 features combination so that attrition rate can reduce.
+## Model Deployment 
+* Deployed dmodle using **GRADIO library.
+
+[deploymodel_videolink](https://https://drive.google.com/file/d/1EvX9K8XDGWYgAEHhgv6xP9AjglNuY0z0/view?usp=sharing) 
 
 ## Credit
-[dare2Compete](https://https://dare2compete.com/) - This project has been done on this competitive platform.
+[dockship](https://https://dockship.io/challenges/5fdcba715f392d4d66289d43/animal-breed-classification-ai-challenge/overview) - This project has been done on this competitive platform.
 
