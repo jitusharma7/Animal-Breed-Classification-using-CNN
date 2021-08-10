@@ -54,8 +54,8 @@ The dataset contains images of 37 breeds of cats and dogs from around the world.
 ## Model Deployment 
 * Deployed dmodle using **GRADIO library.
 
-[deploymodel_videolink](https://https://drive.google.com/file/d/1EvX9K8XDGWYgAEHhgv6xP9AjglNuY0z0/view?usp=sharing) 
+[deploymodel_videolink](https://drive.google.com/file/d/1EvX9K8XDGWYgAEHhgv6xP9AjglNuY0z0/view?usp=sharing) 
 
 ## Credit
-[dockship](https://https://dockship.io/challenges/5fdcba715f392d4d66289d43/animal-breed-classification-ai-challenge/overview) - This project has been done on this competitive platform.
+[dockship](https://dockship.io/challenges/5fdcba715f392d4d66289d43/animal-breed-classification-ai-challenge/overview) - This project has been done on this competitive platform.
 
