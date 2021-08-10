@@ -21,26 +21,18 @@ The Convolutional Neural Network model that I will make, will be classifying an 
  
 Dataset Link:  [Animal_Breed](https:// https://dockship.io/challenges/5fdcba715f392d4d66289d43/animal-breed-classification-ai-challenge/overview)
 
+The dataset contains images of 37 breeds of cats and dogs from around the world. It contains two directories "TRAIN" and "TEST" with 5890 and 1500 images respectively. The training images are provided in the directory of the specific class itself. The names of the directories are "class labels" to be used for submission. The aim is to classify the "TEST" images into one of the 37 classes.
 
 
- 
 ## Exploratory_Data_Analysis
-* Among those who have not joined, only 11.89% are through an employee referral program
+* I followed the following steps to build a Convolutional neural network-
+1.	Import Required library
+2.	Initialize CNN and add a convolutional layer
+3.	Pooling
+4.	Similarly, add two more convolutional layer
+5.	Flattening operation
+6.	Fully connected layer & output layer
 
-  <img src="/source.PNG" width="300">
-
-* Among those who have not joined, only 16.74% are female. It means females are more likely to join
-
- <img src="/Gender.PNG" width="300">      
-      
-* Average hike offered to people who have not joined is lesser than for people who have joined
-
-    <img src="/salary.PNG" width="300">
-        
-* Notice period and Duration to accept offers and slightly positive correlated. The possible reason could be, they might be looking out for other jobs
-
-     
-     <img src="/Multicolinearity.PNG" width="500">
 
 
 
