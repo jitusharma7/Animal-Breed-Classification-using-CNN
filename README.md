@@ -6,7 +6,7 @@
   * [Dataset_Description](#Dataset_Description)
   * [Model_Building](#Model_Building)
   * [Result](#Result)
-  * [Model Deployment ](#Model_Deployment )
+  * [Model_Deployment ](#Model_Deployment )
   * [Credit](#Credit)
   
 
@@ -51,7 +51,7 @@ The dataset contains images of 37 breeds of cats and dogs from around the world.
 
        
 
-## Model Deployment 
+## Model_Deployment 
 * Deployed dmodle using **GRADIO library.
 
 [deploymodel_videolink](https://drive.google.com/file/d/1EvX9K8XDGWYgAEHhgv6xP9AjglNuY0z0/view?usp=sharing) 
