@@ -52,7 +52,7 @@ The dataset contains images of 37 breeds of cats and dogs from around the world.
        
 
 ## Model_Deployment 
-* Deployed dmodle using **GRADIO library.
+* Deployed dmodle using GRADIO library.
 
 [deploymodel_videolink](https://drive.google.com/file/d/1EvX9K8XDGWYgAEHhgv6xP9AjglNuY0z0/view?usp=sharing) 
 
